@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/node": "18.19.130",
-    "@types/react": "18.3.27",
+    "@types/react": "18.3.31",
     "@types/react-dom": "18.3.7",
     "autoprefixer": "10.4.15",
     "eslint": "9.39.1",
